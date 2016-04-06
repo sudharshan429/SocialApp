@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/techniche/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/glide-3.6.1-d545c32c5100c08fd16d736aa4ae191984e831b4.jar" />
+    </item>
+    <item
+        jar="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/classes-7011275935c0054cbb4e362684e85de75d385c97.jar" />
+    </item>
+    <item
+        jar="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-338458ba9980d5881a93e1ea457f26fa975f712a.jar" />
+    </item>
+    <item
+        jar="/home/techniche/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/gson-2.6.1-7a175e1ca3e9363d17fe097a221441ddcddf3082.jar" />
+    </item>
+    <item
+        jar="/home/techniche/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/library-1.0.19-7caf809324f6b23ae3287f3328e9a686d9d50f5c.jar" />
+    </item>
+    <item
+        jar="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/classes-cf529377d052199bb1100fe6776da3704ce77769.jar" />
+    </item>
+    <item
+        jar="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/classes-5ed5d775417fbb0271cc67f97562dd6129ad0dc0.jar" />
+    </item>
+    <item
+        jar="/home/techniche/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-80d83f7ed1d7138730d3eaacc6b5e91b664121ea.jar" />
+    </item>
+    <item
+        jar="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/techniche/Sample Ionic App/Sample Code/test/MyApplication/app/build/intermediates/pre-dexed/debug/classes-5066eb12b06c9a18799158168cb858389622858c.jar" />
+    </item>
+
+</items>
